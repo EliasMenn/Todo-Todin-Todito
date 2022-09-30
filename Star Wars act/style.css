@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box
+}
+body {
+  background-image:url(img/galaxia.jpg);
+  background-repeat:repeat-y ;
+}
+.Imperio {
+  font-size: large;
+  font-weight: bold;
+  background-color: red;
+}
+#Vader {
+  font-size: x-large;
+}
+.Troopers {
+  border-style: dashed;
+  letter-spacing: 1px;
+}
+.apoyo_sub {
+  text-align: justify;
+}
+.Rebel {
+  font-size: large;
+  font-weight: bold;
+  background-color: lightblue;
+}
+#Luke {
+  font-style: italic;
+}
+.apoyo {
+  text-align: center;
+  border-style: double;
+  width: 2000px;
+}
+.Nave { 
+    text-transform: uppercase;
+}
+.Droid {    
+    Text-align:center;
+    padding: 10px;;
+}

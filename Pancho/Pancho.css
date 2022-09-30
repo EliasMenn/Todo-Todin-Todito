@@ -1,0 +1,39 @@
+#arriba {
+    position:relative;
+    border-style: unset;
+    width:40%;
+    margin: 0px auto;
+    margin-top: 10%;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+
+}
+#salchicha {
+    position: relative;
+    width: 45%;
+    height: 80px;
+    margin: 0px auto;
+    margin-top: 0.01%;
+    border-bottom-left-radius:100px;
+    border-bottom-right-radius:100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    background-color: rgb(255, 60, 60);
+}
+#abajo {  
+    position:relative;
+    width:40%;
+    margin: 0px auto;
+    margin-top: 0.01%;
+    border-bottom-left-radius:100px;
+    border-bottom-right-radius:100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.pan {  
+    background-color: rgb(245, 222, 179);
+    width: 90%;
+    height: 90px;
+}
